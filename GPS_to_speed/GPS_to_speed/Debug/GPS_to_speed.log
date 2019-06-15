@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  GPS_to_speed.cpp
+c:\users\popof\source\repos\gps_to_speed\gps_to_speed\gps_to_speed.cpp(3): warning C4603: '_USE_MATH_DEFINES': macro is not defined or definition is different after precompiled header use
+  c:\users\popof\source\repos\gps_to_speed\gps_to_speed\gps_to_speed.cpp(3): note: Add macro to precompiled header instead of defining here
+  c:\users\popof\source\repos\gps_to_speed\gps_to_speed\gps_to_speed.cpp(5): note: use of precompiled header
+  GPS_to_speed.vcxproj -> C:\Users\popof\source\repos\GPS_to_speed\Debug\GPS_to_speed.exe
